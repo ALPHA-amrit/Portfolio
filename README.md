@@ -1,1 +1,2 @@
-# Portfolio
+Cybersecurity Professional statement.
+As a dedicated cybersecurity professional in network security and threat mitigation, I have successfully protected enterprise environments from evolving cyber threats. My expertise includes vulnerability assessment, incident response, and implementing robust security protocols. I am a certified CompTIA Security+ practitioner and have hands-on experience with SIEM tools and penetration testing. In my previous position at SecureIT Solutions, I led a team that reduced security breaches by 40% through proactive monitoring and employee training. I am eager to leverage my technical skills and analytical mindset to contribute to your organization’s security posture and safeguard critical assets.
